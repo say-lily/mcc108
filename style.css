@@ -1,0 +1,48 @@
+body{
+	background: rgb(2,0,36);
+	background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%) fixed;
+	padding-top:80px;
+}
+
+nav.navbar, .topjump, .footer{
+	background: #131921;
+}
+
+.carousel-item{
+	height: 300px;
+}
+
+.itembox{
+	background:#ffffff;
+	margin: 15px;
+	padding: 20px;
+}
+.purchase-notice{
+	margin-top:10px;
+	border:2px solid #1196AB;
+	border-radius:8px;
+	border-left-width:12px;
+	background: #ffffff;
+	height:80px;
+	line-height:80px;
+}
+.review-stars{
+	color: #ffc100;
+}
+
+.topjump{
+	background: #37475A;
+	color:#ffffff;
+	height:50px;
+	line-height:50px;
+}
+
+.footer{
+	color: #ffffff;
+	width:100%;
+}
+
+.bi{
+	width: 1em;
+	height: 1em;
+}
